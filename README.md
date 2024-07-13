@@ -1,4 +1,4 @@
-# ML_Project-Loan_Status__Prediction
+# ML_Project-💰Loan_Status__Prediction💰
 
 This project tackles the task of predicting loan status (approved or rejected) using a Support Vector Machine (SVM) classifier. By analyzing a dataset of loan applicants' attributes, the model seeks to identify patterns that distinguish successful borrowers from those unlikely to repay their loans.
 
