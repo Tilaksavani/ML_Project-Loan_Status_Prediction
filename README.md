@@ -1,4 +1,4 @@
-# ML_Project-💰Loan_Status__Prediction💰
+# ML_Project-💰Loan_Status_Prediction💰
 
 This project tackles the task of predicting loan status (approved or rejected) using a Support Vector Machine (SVM) classifier. By analyzing a dataset of loan applicants' attributes, the model seeks to identify patterns that distinguish successful borrowers from those unlikely to repay their loans.
 
@@ -36,5 +36,9 @@ The main script (main.py or similar) typically follows these steps:
 ### Additional Notes
  - This project showcases support vector machine using loan status prediction. You can explore other machine learning models and hyperparameter tuning for potentially better results.
  - Feel free to modify the code to experiment with different functionalities, like making predictions for loan status.
+
+### Resources
+ - Scikit-learn Linear Regression Documentation: [https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+ - Kaggle Loan Status Dataset Description: [https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction)
 
 By applying machine learning to loan status prediction, we can potentially improve loan approval processes, enhance risk assessment, and promote financial inclusion. This project provides a valuable foundation for further exploration in this domain.
