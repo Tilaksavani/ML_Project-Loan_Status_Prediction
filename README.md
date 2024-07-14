@@ -38,7 +38,7 @@ The main script (main.py or similar) typically follows these steps:
  - Feel free to modify the code to experiment with different functionalities, like making predictions for loan status.
 
 ### Resources
- - Scikit-learn Linear Regression Documentation: [https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+ - Scikit-learn Support Vector Machine Documentation: [https://scikit-learn.org/stable/modules/svm.html](https://scikit-learn.org/stable/modules/svm.html)
  - Kaggle Loan Status Dataset Description: [https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction)
 
 By applying machine learning to loan status prediction, we can potentially improve loan approval processes, enhance risk assessment, and promote financial inclusion. This project provides a valuable foundation for further exploration in this domain.
